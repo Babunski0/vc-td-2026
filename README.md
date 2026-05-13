@@ -19,7 +19,7 @@ Master of Science in Computer Science with Specialization in Software Engineerin
 
 This repository includes the supplementary material used in the thesis.
 
-### `data/survey/`
+### `Survey`
 
 Contains the anonymized survey answers collected during the empirical part of the study.
 
@@ -27,7 +27,7 @@ File:
 
 - `survey_answers.xlsx`
 
-### `data/interviews/`
+### `Interviews`
 
 Contains anonymized interview transcripts from the follow-up interview sessions conducted after the survey.
 
@@ -37,7 +37,7 @@ Files:
 - `Interview session 2.docx`
 - `Interview session 3.docx`
 
-### `data/slr/`
+### `MLR`
 
 Contains the Excel file used for the literature review data extraction and analysis.
 
