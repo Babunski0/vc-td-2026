@@ -7,7 +7,11 @@ This repository contains the package for the master thesis:
 Authors:
 
 - Victor Mertala
+  vma19001@student.mdu.se
+  
+
 - Vasilije Ivanisevic
+  vic25001@student.mdu.se
 
 Mälardalen University  
 School of Innovation, Design and Engineering  
