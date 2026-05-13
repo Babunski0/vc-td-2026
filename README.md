@@ -1,6 +1,6 @@
 # Package: Vibe Coding and Technical Debt
 
-This repository contains the replication package for the master thesis:
+This repository contains the package for the master thesis:
 
 **Vibe Coding and Technical Debt: A Multivocal Literature Review and Mixed-Methods Study**
 
